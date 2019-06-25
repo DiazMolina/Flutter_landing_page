@@ -1,0 +1,35 @@
+
+[
+  {
+    "family": "MaterialIcons",
+    "fonts": [
+      {
+        "asset": "https://fonts.gstatic.com/s/materialicons/v42/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2"
+      }
+    ]
+  },
+  {
+    "family": "Roboto-Bold",
+    "fonts": [
+      {
+        "asset": "Roboto-Bold.ttf"
+      }
+    ]
+  },
+  {
+    "family": "Roboto-Medium",
+    "fonts": [
+      {
+        "asset": "Roboto-Medium.ttf"
+      }
+    ]
+  },
+  {
+    "family": "Roboto-Regular",
+    "fonts": [
+      {
+        "asset": "Roboto-Regular.ttf"
+      }
+    ]
+  }
+]
